@@ -37,6 +37,15 @@
       }
     },
     {
+      "identity" : "fluentassertionsswift",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/odyth/FluentAssertionsSwift.git",
+      "state" : {
+        "revision" : "f4f1a16b8b3838704dd28eee632c6e9d8ccdc515",
+        "version" : "1.0.1"
+      }
+    },
+    {
       "identity" : "mixpanel-swift",
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/mixpanel/mixpanel-swift.git",
@@ -78,6 +87,15 @@
       "state" : {
         "branch" : "master",
         "revision" : "c354c1945bb35a1f01b665b22474f6db28cba4a2"
+      }
+    },
+    {
+      "identity" : "swiftparameterizedtesting",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/cameroncooke/SwiftParameterizedTesting.git",
+      "state" : {
+        "revision" : "2df3d9c91cf27b23aaba829981a9a11ecf775fc7",
+        "version" : "0.1.7"
       }
     },
     {
